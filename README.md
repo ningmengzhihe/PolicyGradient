@@ -13,8 +13,11 @@ gym 0.26.2
 
 # 简介
 采用基础的PolicyGradient算法玩小游戏
+
 RL_brain.py —— PolicyGradient算法类
+
 run_CarPole.py —— 玩CartPole小游戏主流程
+
 run_MountainCar.py —— 玩MountainCar小游戏流程
 
 玩CartPole小游戏时vt值变化曲线
